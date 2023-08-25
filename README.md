@@ -1,4 +1,4 @@
-<img width="1440" alt="12" src="https://github.com/FrozenSpirit/portfolio_1/assets/84676444/bfbeb9ab-5049-4f71-bbef-4b7da1813d11">
+
 # My Portfolio
 
 Hope you like my design 😅
