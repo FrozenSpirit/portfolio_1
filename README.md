@@ -14,10 +14,16 @@ Desktop View :
 <img width="1440" alt="5" src="https://github.com/FrozenSpirit/portfolio_1/assets/84676444/da9f27ec-5317-4c2f-9d89-0d8c5db473a7">
 
 
-<img width="1440" alt="5" src="https://github.com/FrozenSpirit/portfolio_1/assets/84676444/74a56c89-dbaa-47fe-94cd-359492e6ea0c">
+
 
 
 Mobile View : 
+
+
+
+
+
+
 <img width="1440" alt="6" src="https://github.com/FrozenSpirit/portfolio_1/assets/84676444/e2a8d5df-3364-4129-a6fe-b874a7d7395f">
 <img width="1440" alt="11" src="https://github.com/FrozenSpirit/portfolio_1/assets/84676444/b2ae6aeb-4b74-4dc1-a290-885a3e50b08a">
 
